@@ -34,7 +34,7 @@
     </style>
     <script type="text/javascript">
 
-      localStorage.setItem('api_url',"http://127.0.0.1:8000");
+      localStorage.setItem('api_url',"http://192.168.1.108:8000");
     </script>
 </head>
 <body>
@@ -119,7 +119,7 @@
 
 <script type="text/x-dot-template" id="hongbaotpl">
 
-<img src="http://127.0.0.1/{{=it.picurl}}" style="position: absolute;width: 1.5rem;top: 0.3rem;right: 0.5rem;" onclick="toBanner('{{=it.linkurl}}')">{{=it.name}}
+<img src="http://192.168.1.108:8000/{{=it.picurl}}" style="position: absolute;width: 1.5rem;top: 0.3rem;right: 0.5rem;" onclick="toBanner('{{=it.linkurl}}')">{{=it.name}}
 </script>
 
 <script type="text/javascript" src="script/api.js"></script>
@@ -302,7 +302,7 @@
 
 
                         api.ajax({
-                            url: 'http://app.24mxm.cn/AppHello.html',
+                            url: 'http://192.168.1.108:8000/AppHello.html',
                             method: 'get'
                         },function(ret, err){
                             if (ret) {

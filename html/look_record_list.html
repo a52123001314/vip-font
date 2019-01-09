@@ -134,7 +134,7 @@
 
 	function update(){
 		api.ajax({
-	        url:'http://app.24mxm.cn/login/login/newjilu?uid=' + localStorage.getItem('user_id')
+	        url:'http://192.168.1.108:8000/login/login/newjilu?uid=' + localStorage.getItem('user_id')
         },function(ret,err){
         	//coding...
         	if(ret.code==0){

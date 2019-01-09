@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1067735-32a8-4bc5-b49a-899b3e1bdbcc" name="Default" comment="" />
+    <list default="true" id="e1067735-32a8-4bc5-b49a-899b3e1bdbcc" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/html/back_pwd.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/back_pwd.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/daili.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/daili.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/daili_details_fm.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/daili_details_fm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/daili_login_frm.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/daili_login_frm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/daili_quma_fm.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/daili_quma_fm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/fengge.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/fengge.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/frame0.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/frame0.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/frame2.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/frame2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/frame3.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/frame3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/game_list_frm.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/game_list_frm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/game_play_frm.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/game_play_frm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/look_record.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/look_record.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/look_record_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/look_record_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/play_win.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/play_win.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/reg_frm-YZM.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/reg_frm-YZM.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/reg_frm.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/reg_frm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/repass.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/repass.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/tv_list_frm.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/tv_list_frm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/tv_play_frm.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/tv_play_frm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/v_list_frm.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/v_list_frm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/v_mn_frm.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/v_mn_frm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/v_play_frm.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/v_play_frm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/vplay_frm.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/vplay_frm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/zhibo_frm.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/zhibo_frm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/zhubo_list_frm.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/zhubo_list_frm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,20 +39,70 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+            <state relative-caret-position="323">
+              <caret line="138" column="27" selection-start-line="138" selection-start-column="27" selection-end-line="138" selection-end-column="27" />
               <folding>
-                <element signature="n#script#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#script#7;n#body#0;n#html#0;n#!!top" />
-                <element signature="e#10861#12034#0" />
                 <element signature="e#12245#13067#0" />
                 <element signature="e#13177#15877#0" />
-                <element signature="e#16970#17053#0" />
                 <element signature="e#18750#22154#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="frame2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/frame2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="422">
+              <caret line="376" column="49" selection-start-line="376" selection-start-column="49" selection-end-line="376" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="frame3.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/frame3.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="422">
+              <caret line="1743" column="14" lean-forward="true" selection-start-line="1743" selection-start-column="14" selection-end-line="1743" selection-end-column="14" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="daili_details_fm.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/daili_details_fm.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="137" column="51" selection-start-line="137" selection-start-column="47" selection-end-line="137" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="daili_login_frm.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/daili_login_frm.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-684" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reg_frm.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html/reg_frm.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="146" column="33" lean-forward="true" selection-start-line="146" selection-start-column="33" selection-end-line="146" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -61,18 +139,6 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file leaf-file-name="api.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/script/api.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1932">
-              <caret line="298" column="30" lean-forward="true" selection-start-line="298" selection-start-column="30" selection-end-line="298" selection-end-column="30" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
@@ -82,7 +148,6 @@
       <find>var api</find>
       <find>api.setFrameGroupIndex</find>
       <find>randomSwitchBtn</find>
-      <find>UnloadedCompleted</find>
       <find>setFrameGroupIndex</find>
       <find>addCls</find>
       <find>ajax(</find>
@@ -93,15 +158,27 @@
       <find>apiready</find>
       <find>openFrameGroup</find>
       <find>http:</find>
+      <find>请检查网络是否</find>
+      <find>NetworkConnectionFailurePrompt</find>
+      <find>UnloadedCompleted</find>
+      <find>192.</find>
+      <find>http://192.168.1.108:8000</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/html/reg_frm.html" />
       </list>
     </option>
   </component>
@@ -117,6 +194,7 @@
     <option name="width" value="1934" />
     <option name="height" value="1048" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -128,6 +206,22 @@
             <path>
               <item name="前端" type="b2602c69:ProjectViewProjectNode" />
               <item name="前端" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="前端" type="b2602c69:ProjectViewProjectNode" />
+              <item name="前端" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="html" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="前端" type="b2602c69:ProjectViewProjectNode" />
+              <item name="前端" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="image" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="前端" type="b2602c69:ProjectViewProjectNode" />
+              <item name="前端" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="image" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="前端" type="b2602c69:ProjectViewProjectNode" />
@@ -169,12 +263,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546998865122</updated>
-      <workItem from="1546998866725" duration="5481000" />
+      <workItem from="1546998866725" duration="8992000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5481000" />
+    <option name="totallyTimeSpent" value="8992000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2553" y="-1" width="1934" height="1048" extended-state="6" />
@@ -184,8 +278,8 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32967034" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
@@ -213,13 +307,10 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/image/app/defaultHongbao.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/script/api.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1932">
-          <caret line="298" column="30" lean-forward="true" selection-start-line="298" selection-start-column="30" selection-end-line="298" selection-end-column="30" />
+          <caret line="298" column="30" selection-start-line="298" selection-start-column="30" selection-end-line="298" selection-end-column="30" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -247,19 +338,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/image/app/defaultHongbao.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        <state relative-caret-position="323">
+          <caret line="138" column="27" selection-start-line="138" selection-start-column="27" selection-end-line="138" selection-end-column="27" />
           <folding>
-            <element signature="n#script#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#script#7;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#10861#12034#0" />
             <element signature="e#12245#13067#0" />
             <element signature="e#13177#15877#0" />
-            <element signature="e#16970#17053#0" />
             <element signature="e#18750#22154#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/frame2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="376" column="49" selection-start-line="376" selection-start-column="49" selection-end-line="376" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/frame3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="1743" column="14" lean-forward="true" selection-start-line="1743" selection-start-column="14" selection-end-line="1743" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/daili_details_fm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="137" column="51" selection-start-line="137" selection-start-column="47" selection-end-line="137" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/daili_login_frm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-684" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/reg_frm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="146" column="33" lean-forward="true" selection-start-line="146" selection-start-column="33" selection-end-line="146" selection-end-column="33" />
         </state>
       </provider>
     </entry>
